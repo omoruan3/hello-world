@@ -9,6 +9,7 @@
     <p><label>Address: <input type="text" name="address"></label></p>
 
   </fieldset>
+  <br>
 
   <fieldset>
 
